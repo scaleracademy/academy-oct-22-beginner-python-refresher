@@ -12,7 +12,7 @@ This repository contains all the lecture material explained during the sessions.
 | 2. | Data Types and Input | [Data Types](Lecture_1.ipynb) |
 | 3. | Operators and Control Flow | [Operators and Control Flow](Lecture_2.ipynb) |
 | 4. | Iteration 1 | [Iteration 1](Lecture_4.ipynb) |
-| 5. | Iteration 2 | TBA |
+| 5. | Iteration 2 | [Iteration 2](Lecture_5.ipynb) |
 | 6. | Functions | TBA |
 | 7. | List 1 | TBA |
 | 8. | List 2 | TBA |
