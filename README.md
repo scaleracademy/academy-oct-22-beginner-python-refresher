@@ -14,7 +14,7 @@ This repository contains all the lecture material explained during the sessions.
 | 4. | Iteration 1 | [Iteration 1](Lecture_4.ipynb) |
 | 5. | Iteration 2 | [Iteration 2](Lecture_5.ipynb) |
 | 6. | Functions | [Functions](Lecture_6.ipynb) |
-| 7. | List 1 | TBA |
+| 7. | List 1 | [Lists 1](Lecture_7.ipynb) |
 | 8. | List 2 | TBA |
 | 9. | List 3 | TBA |
 | 10. | Tuples + Strings 1 | TBA |
