@@ -15,8 +15,9 @@ This repository contains all the lecture material explained during the sessions.
 | 5. | Iteration 2 | [Iteration 2](Lecture_5.ipynb) |
 | 6. | Functions | [Functions](Lecture_6.ipynb) |
 | 7. | List 1 | [Lists 1](Lecture_7.ipynb) |
-| 8. | List 2 | TBA |
-| 9. | List 3 | TBA |
-| 10. | Tuples + Strings 1 | TBA |
-| 11. | Strings 2 | TBA |
-| 12. | Sets and Dictionaries | TBA |
+| 8. | List 2 | [Lists 2](Lecture_8.ipynb) |
+| 9. | Problem Solving Session | [Problem Solving Session](Problem_Solving_Session.ipynb) |
+| 10. | List 3 | TBA |
+| 11. | Tuples + Strings 1 | TBA |
+| 12. | Strings 2 | TBA |
+| 13. | Sets and Dictionaries | TBA |
