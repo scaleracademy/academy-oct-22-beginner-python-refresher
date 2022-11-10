@@ -18,6 +18,6 @@ This repository contains all the lecture material explained during the sessions.
 | 8. | List 2 | [Lists 2](Lecture_8.ipynb) |
 | 9. | Problem Solving Session | [Problem Solving Session](https://docs.google.com/document/d/1rS3NCjJmlf0XeRUd63tUDx1Rh9YDZkwfJ-dEYAg0hGU/edit?usp=sharing) |
 | 10. | List 3 | [Lists 3](Lecture_9.ipynb) |
-| 11. | Tuples + Strings 1 | TBA |
+| 11. | Tuples + Strings 1 | [Tuples + Strings 1](Lecture_10.ipynb)) |
 | 12. | Strings 2 | TBA |
 | 13. | Sets and Dictionaries | TBA |
