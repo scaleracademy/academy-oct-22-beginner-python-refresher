@@ -20,4 +20,4 @@ This repository contains all the lecture material explained during the sessions.
 | 10. | List 3 | [Lists 3](Lecture_9.ipynb) |
 | 11. | Tuples + Strings 1 | [Tuples + Strings 1](Lecture_10.ipynb) |
 | 12. | Strings 2 | [Strings 2](Lecture_11.ipynb) |
-| 13. | Sets and Dictionaries | TBA |
+| 13. | Sets and Dictionaries | [Sets and Dictionaries](Lecture_12.ipynb) |
